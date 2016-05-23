@@ -1,5 +1,4 @@
 #include <iostream>
-//asldkfja;
 using namespace std;
 
 struct  node
@@ -31,7 +30,7 @@ public:
 	int Height(node**);
 };
 
-int proverkaInt(); //проверка на интовое число
+int proverkaInt(); //проверка на интовое число добавлена
 
 void main()
 {
